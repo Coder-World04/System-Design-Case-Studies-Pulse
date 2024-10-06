@@ -1,5 +1,8 @@
 # All important System Design Case Studies Pulse
 
+![image](https://github.com/user-attachments/assets/d148cee2-78ef-41f7-8012-6e1034550f72)
+
+
 [How Lyft Handles 2x Traffic Spikes during Peak Hours with Auto scaling Infrastructure](https://open.substack.com/pub/naina0405/p/system-design-tech-case-study-pulse-1b4?r=14q3sp&utm_campaign=post&utm_medium=web)
 
 [Facebook's News Feed Algorithm Marvel: How it Serves 2.9 Billion Daily Active Users Using PyTorch and Cassandra](https://open.substack.com/pub/naina0405/p/system-design-tech-case-study-pulse-b4e?r=14q3sp&utm_campaign=post&utm_medium=web)
